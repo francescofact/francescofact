@@ -1,3 +1,4 @@
+![Top Image](./top.svg)
 
 ### :wave: Hi, I'm Francesco Fattori
 
@@ -12,4 +13,5 @@
 	<a href="https://www.linkedin.com/in/francesco-fattori/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/francescofact"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
-![alt text](./bottom.svg)
+
+![Bottom Image](./bottom.svg)
