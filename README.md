@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**francescofact/francescofact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :wave: Hi, I'm Francesco Fattori
 
-Here are some ideas to get you started:
+- 📚 Currently MSc Student of ICT Solution Architect @ University of Pisa.
+- 🎓 Graduated in CS @ University of Verona.
+- ✨ Willing to be a Software Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/francescofact"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/francesco-fattori/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/francescofact"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
+![alt text](./bottom.svg)
