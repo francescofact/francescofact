@@ -2,10 +2,9 @@
 
 <h1 align="center"> :wave: Hi, I'm Francesco Fattori </h1>
 
-
-- 📚 Currently MSc Student of ICT Solution Architect @ University of Pisa.
+- 💼 Working at Tesla as a Software Application Engineer 🚗🔋
+- 🎓 Graduated with MSc in CS specializing on ICT Solution Architecture @ University of Pisa.
 - 🎓 Graduated in CS @ University of Verona.
-- ✨ Willing to be a Software Engineer.
 
 
 
