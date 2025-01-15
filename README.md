@@ -2,7 +2,7 @@
 
 <h1 align="center"> :wave: Hi, I'm Francesco Fattori </h1>
 
-- 💼 Working at Tesla as a Software Application Engineer 🚗🔋
+- 💼 Working at Zalando as a Software Engineer 🛍️🛜
 - 🎓 Graduated with MSc in CS specializing on ICT Solution Architecture @ University of Pisa.
 - 🎓 Graduated in CS @ University of Verona.
 
